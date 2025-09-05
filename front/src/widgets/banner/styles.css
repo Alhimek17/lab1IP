@@ -1,0 +1,9 @@
+.carousel-caption {
+    background-color: var(--my-footer-color);
+    border-radius: 5px;
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+    filter: invert(80%);
+}
