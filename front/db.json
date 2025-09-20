@@ -1,0 +1,48 @@
+{
+  "products": [
+    {
+      "name": "Ноу",
+      "price": "50",
+      "size": "15.6 дюймов",
+      "categoryId": 2,
+      "supplierId": 1,
+      "id": 1
+    },
+    {
+      "name": "Сапоги",
+      "price": "27",
+      "size": "21",
+      "categoryId": 2,
+      "supplierId": 1,
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Электроника"
+    },
+    {
+      "id": 2,
+      "name": "Одежда"
+    },
+    {
+      "id": 3,
+      "name": "Мебель"
+    },
+    {
+      "id": 4,
+      "name": "Продукты питания"
+    }
+  ],
+  "suppliers": [
+    {
+      "id": 1,
+      "name": "Soprano Inc."
+    },
+    {
+      "id": 2,
+      "name": "Galler Ltd."
+    }
+  ]
+}
